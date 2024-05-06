@@ -1,2 +1,2 @@
-""依赖库""
+依赖库
 pip install gradio
